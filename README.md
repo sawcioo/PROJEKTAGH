@@ -1,6 +1,6 @@
 PROJEKTAGH
 ==========
 
-PROJEKT AGH
+PROJEKT AGH - System zarządzania szkołą
 
-BOGDAN TEST
+Techologie Obiektowe 2
