@@ -1,0 +1,7 @@
+Java + spring:
+1.http://spring.io/blog/2011/08/16/chatting-in-the-cloud-part-1
+2.https://spring.io/blog/2012/05/16/spring-mvc-3-2-preview-chat-sample
+3.http://stackoverflow.com/questions/14655408/chat-application-using-jms-spring-and-activemq-queue
+
+Ca³y gotowy projekt java+spring:
+https://github.com/rstoyanchev/spring-mvc-chat
