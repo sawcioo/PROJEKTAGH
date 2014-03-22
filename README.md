@@ -1,6 +1,4 @@
-PROJEKTAGH
+PROJEKTY AGH
 ==========
 
-PROJEKT AGH - System zarządzania szkołą
-
-Techologie Obiektowe 2
+PROJEKT AGH
