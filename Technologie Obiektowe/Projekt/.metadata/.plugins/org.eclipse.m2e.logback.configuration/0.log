@@ -14,3 +14,23 @@
 2014-03-22 13:20:01,323 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bogdan/JAVA_WORKSPACE/PROJEKTAGH/Technologie Obiektowe/Projekt/SchoolSystem/src/main/resources
 2014-03-22 13:20:01,328 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2014-03-22 13:20:01,338 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bogdan/JAVA_WORKSPACE/PROJEKTAGH/Technologie Obiektowe/Projekt/SchoolSystem/src/test/resources
+2014-03-22 13:37:22,866 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-22 13:37:22,867 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bogdan/JAVA_WORKSPACE/PROJEKTAGH/Technologie Obiektowe/Projekt/SchoolSystem/src/main/resources
+2014-03-22 13:37:22,872 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-22 13:37:22,872 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bogdan/JAVA_WORKSPACE/PROJEKTAGH/Technologie Obiektowe/Projekt/SchoolSystem/src/test/resources
+2014-03-22 13:40:03,918 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-22 13:40:03,919 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bogdan/JAVA_WORKSPACE/PROJEKTAGH/Technologie Obiektowe/Projekt/SchoolSystem/src/main/resources
+2014-03-22 13:40:03,931 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-22 13:40:03,931 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bogdan/JAVA_WORKSPACE/PROJEKTAGH/Technologie Obiektowe/Projekt/SchoolSystem/src/test/resources
+2014-03-22 13:41:53,548 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-22 13:41:53,553 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bogdan/JAVA_WORKSPACE/PROJEKTAGH/Technologie Obiektowe/Projekt/SchoolSystem/src/main/resources
+2014-03-22 13:41:53,565 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-22 13:41:53,565 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bogdan/JAVA_WORKSPACE/PROJEKTAGH/Technologie Obiektowe/Projekt/SchoolSystem/src/test/resources
+2014-03-22 13:43:22,219 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-22 13:43:22,219 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bogdan/JAVA_WORKSPACE/PROJEKTAGH/Technologie Obiektowe/Projekt/SchoolSystem/src/main/resources
+2014-03-22 13:43:22,249 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-22 13:43:22,249 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bogdan/JAVA_WORKSPACE/PROJEKTAGH/Technologie Obiektowe/Projekt/SchoolSystem/src/test/resources
+2014-03-22 13:44:09,642 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-22 13:44:09,642 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bogdan/JAVA_WORKSPACE/PROJEKTAGH/Technologie Obiektowe/Projekt/SchoolSystem/src/main/resources
+2014-03-22 13:44:09,647 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-22 13:44:09,648 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bogdan/JAVA_WORKSPACE/PROJEKTAGH/Technologie Obiektowe/Projekt/SchoolSystem/src/test/resources
