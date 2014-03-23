@@ -5,3 +5,10 @@ Java + spring:
 
 Ca³y gotowy projekt java+spring:
 https://github.com/rstoyanchev/spring-mvc-chat
+
+tutaj cos o webservice pod eclipse:
+http://codesolver.blox.pl/2009/06/WebService-pod-Eclipsem.html
+
+
+instalacja i konfiguracja tomcat:
+http://javastart.pl/jee/tomcat-instalacja-i-konfiguracja-w-eclipse/
